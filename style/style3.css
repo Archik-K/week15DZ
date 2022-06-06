@@ -1,0 +1,17 @@
+.container{
+    margin: 1% 28% 1% 29%;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    background-color: aqua;
+}
+
+#spisok{
+    width: 13%;
+    padding: 1% 2%;
+    margin: 1% 26% 1% 44%;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    background-color: rgb(205, 252, 255);
+}
